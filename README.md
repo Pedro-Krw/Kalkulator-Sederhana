@@ -1,4 +1,4 @@
 # Kalkulator-Sederhana
-![image](https://user-images.githubusercontent.com/59316805/114523213-4c937580-9c6e-11eb-833f-34aee856810d.png)
+![image](https://user-images.githubusercontent.com/59316805/114575453-618afb80-9ca4-11eb-800a-61a016c3a748.png)
 
 
